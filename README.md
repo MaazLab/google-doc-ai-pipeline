@@ -1,4 +1,4 @@
-# Google Document AI Pipeline 🤖
+# Google Document AI Pipeline 🗎
 
 This repo automates the process of integrating Google Document AI with custom processors, schema creation, document annotation, and model training. It allows users to efficiently create and manage document parsing workflows directly from a user-friendly dashboard.
 
